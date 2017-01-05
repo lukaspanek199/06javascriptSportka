@@ -17,7 +17,7 @@ for(i = 0;i<tip.length;i++){
 var cislo2 = 0;
 document.write("<table>");
 document.write("<tr>");
-document.write("<td><th colspan='5' align='center'>Sportka</th></td>");
+document.write("<th colspan='5' align='center'>Sportka</th>");
 document.write("</tr>");
 for (j = 0; j < 10; j++) {
     document.write("<tr>");
